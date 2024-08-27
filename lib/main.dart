@@ -81,7 +81,6 @@ class BankHomePage extends StatelessWidget {
                     subtitle: Text('R\$ 300,00'),
                     trailing: Text('22/08/2024'),
                   ),
-                  // Adicione mais ListTiles conforme necessário
                 ],
               ),
             ),
